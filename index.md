@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## About me
 
-You can use the [editor on GitHub](https://github.com/goteguru/me/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```javascript
+{
+name: "Gergely Mészáros",
+year: 1975,
+interests: [ linux, coding, go, oldschool-rpg ]
+}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact
 
-### Jekyll Themes
+### ssh public key
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/goteguru/me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```text
+ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2VgzPTCTWh4J+nXR9NVzwiYbaIzUd9KNROKkqDu9bAwgbIiLC9r2BeWyoyYsL+4UZVgzxLSMIWSAsLYbh4g0QkhpdLBnnDrNGkXasa/VZ3W5Y0mUhUnHXiwhpq7Vn1/WbDiDpQa32AdJihxg2zNHvDhu/t6b3LxytIYE3YJ9+i3LBd5xpN0gswwjO5wznTz7ETTw2ZXCM4CPY0Oj9IKNJ+lkaTrnG0u3UfxzrVYuq3sENBslrNHByhKA5UI7vhn+tnxp2qmeeAwBVZOQ0C2QdEpKFGZEgdnLy30G13eWg8k+w/PS559975mlwusYo7gMuGoFIswDIQR0ox7jHdzUyQ== 
+```
 
-### Support or Contact
+### This is me at keybase:
+[https://keybase.io/goteguru]
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
