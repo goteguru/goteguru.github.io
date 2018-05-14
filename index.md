@@ -19,3 +19,7 @@ ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEA2VgzPTCTWh4J+nXR9NVzwiYbaIzUd9KNROKkqDu9bAwg
 ### This is me at keybase:
 [https://keybase.io/goteguru]
 
+### gpg key
+```text
+gpg --receive-keys 2FA62E456E69C723E6B6D882F9B528B7BCF936AA
+```
