@@ -4,7 +4,8 @@
 {
 name: "Gergely Mészáros",
 year: 1975,
-interests: [ linux, coding, IT security, go, deep neural nets, open-source, oldschool-rpg ]
+interests: [ "Linux", "Coding", "IT security", "Go", "deep neural nets", "Open Source", "old-school RPG" ],
+education: ["Msc, Geoinformatics", "PhD Military Engineering"]
 }
 ```
 
